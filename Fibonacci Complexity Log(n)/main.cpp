@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 /**/
-//Matricial
+//Logaritmica
 void multiply(int M[2][2], int N[2][2]) {
    int tmp1 = M[0][0]*N[0][0] + M[0][1]*N[1][0];
    int tmp2 = M[0][0]*N[0][1] + M[0][1]*N[1][1];
